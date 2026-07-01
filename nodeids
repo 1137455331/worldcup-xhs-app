@@ -1,0 +1,15 @@
+[
+  "tests/test_core_logic.py::test_argentina_vs_cape_verde_extreme_longshot_cap",
+  "tests/test_core_logic.py::test_belgium_vs_senegal_aggressive_has_explicit_pick",
+  "tests/test_core_logic.py::test_england_vs_dr_congo_no_nan_and_has_pick",
+  "tests/test_core_logic.py::test_expected_value",
+  "tests/test_core_logic.py::test_kelly_non_negative",
+  "tests/test_core_logic.py::test_longshot_probability_adjustment_penalizes_low_support_side",
+  "tests/test_core_logic.py::test_multiplier",
+  "tests/test_core_logic.py::test_normalize_percentages",
+  "tests/test_core_logic.py::test_probability_clamp",
+  "tests/test_core_logic.py::test_recommend_bet_always_has_side",
+  "tests/test_core_logic.py::test_risk_adjustment_shrinks_toward_even",
+  "tests/test_core_logic.py::test_risk_quiz",
+  "tests/test_core_logic.py::test_stake_mapping"
+]
